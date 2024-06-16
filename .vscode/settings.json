@@ -4,7 +4,7 @@
 
     "debug.autoExpandLazyVariables": true,
     "debug.inlineValues": "on",
-
+    "terminal.integrated.shellIntegration.enabled": false,
     "python.languageServer": "Pylance",
     "python.analysis.typeCheckingMode": "off",
     "python.analysis.diagnosticMode": "openFilesOnly",
